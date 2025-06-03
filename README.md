@@ -1,12 +1,12 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-**200 Level Software Engineering Student | Builder of Code | Seeker of Wisdom**
+**300 Level Software Engineering Student | Builder of Code | Seeker of Wisdom**
 
 ---
 
 ## ⚔️ About Me
 
-- 🎓 Currently studying **Software Engineering** (200 Level)
+- 🎓 Currently studying **Software Engineering** (300 Level)
 - 💻 Passionate about building web apps and learning full-stack development
 - 📚 Always exploring new tools, technologies, and frameworks
 - 🌍 On a journey to become a world-class developer, one line of code at a time
@@ -27,9 +27,10 @@
 
 ## 📦 Projects I'm Proud Of
 
-- 🛒 **Shopping Website** — Built with MySQL, Node.js, and Express
-- 🔐 **Login & Signup System** — User authentication and session management
-- 🌐 **Portfolio Website** — My personal website (coming soon)
+- 🛒 **Shopping Website** — Built with MySQL, PHP, and Ajax
+- 🔐 **Login & Signup System** - User authentication and session management
+- **Basic Weather Website** - Built with HTML/CSS, Javascript
+- 🌐 **Portfolio Website** - My personal website (coming soon)
 
 ---
 
