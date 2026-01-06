@@ -29,6 +29,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ---
 
@@ -36,7 +37,10 @@
 
 - 🛒 **Shopping Website** — Built with MySQL, PHP, and Ajax
 - 🔐 **Login & Signup System** - User authentication and session management
-- **Basic Weather Website** - Built with HTML/CSS, Javascript
+- 🧑 **Customer Churn Prediction Machine** - ML solution designed to predict customer churn (the likelihood of a customer canceling their subscription)
+- 🛒 **Supermarket Billing System** - Built using C++ separated into two parts (administrator and buyer)
+- 📩 **Spam Email Classifier** - A Streamlit app using Naive Bayes to detect spam SMS.
+- 🌤  **Basic Weather Website** - Built with HTML/CSS, Javascript
 - 🌐 **Portfolio Website** - My personal website (coming soon)
 - 🏡📈**House Price Prediction App** - Training a database to be able to predict
 ---
