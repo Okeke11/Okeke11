@@ -1,6 +1,8 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-**300 Level Software Engineering Student | Builder of Code | Seeker of Wisdom**
+### Software Engineering Student | AI Enthusiast | Backend Developer
+
+I am a 300-level Software Engineering student at Babcock University with a passion for building scalable systems and intelligent applications. My journey spans from low-level system administration (Linux) to building cloud-ready backend architectures and Machine Learning models.
 
 ---
 
@@ -26,30 +28,40 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0A66C2?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-A8B9CC?style=flat&logo=c&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📦 Projects I'm Proud Of
+### 🚀 Projects Collection
 
-- 🛒 **Shopping Website** — Built with MySQL, PHP, and Ajax
-- 🔐 **Login & Signup System** - User authentication and session management
-- 🧑 **Customer Churn Prediction Machine** - ML solution designed to predict customer churn (the likelihood of a customer canceling their subscription)
-- 🛒 **Supermarket Billing System** - Built using C++ separated into two parts (administrator and buyer)
-- 📩 **Spam Email Classifier** - A Streamlit app using Naive Bayes to detect spam SMS.
-- 🌤  **Basic Weather Website** - Built with HTML/CSS, Javascript
-- 🌐 **Portfolio Website** - My personal website (coming soon)
-- 🏡📈**House Price Prediction App** - Training a database to be able to predict
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **E-Commerce Platform** | PHP, MySQL | A full-stack online store featuring product catalogs, cart functionality, and database-driven inventory management. |
+| **Traffic Guard System** | Node.js, Express | A custom **API Rate Limiter** designed to control traffic flow and prevent DDOS-style overload on backend services. |
+| **TaskFlow System** | JavaScript, Node.js | A productivity and task management application focused on workflow efficiency and real-time updates. |
+| **Modern Login Suite** | HTML, CSS, JS | A high-end, responsive authentication UI featuring modern styling, validation, and smooth user transitions. |
+| **Secure Auth Demo** | Node.js, Mongo, Bcrypt | A robust authentication system implementing **JWT-style security** and password hashing to secure user data. |
+| **Spam Email Classifier** | Python, Scikit-Learn | An ML model that uses **Natural Language Processing (NLP)** to detect and filter spam emails. |
+| **Supermarket Billing** | C++ | A terminal-based system demonstrating OOP principles for inventory management and automated billing. |
+| **Student Mgmt System** | Java, MongoDB | A comprehensive CRUD application for managing student records. |
+
 ---
 
 ## 📈 Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&show_icons=true&theme=radical&count_private=true" alt="Okeke11's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 📫 Contact Me
