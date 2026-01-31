@@ -66,6 +66,7 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 ## 📫 Contact Me
 
 - 💌 chiagoziemike14@gmail.com
+- 💌 chiagozieokeke87@gmail.com
 - 🐦 ChiagozieMicha2(https://twitter.com/ChiagozieMicha2)
 - 💼 Chiagozie Okeke(https://linkedin.com/in/chiagozie-okeke)
 - 📞 09127741457
