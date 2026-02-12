@@ -1,6 +1,6 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-### Software Engineering Student | AI Enthusiast | Backend Developer
+### Software Engineering Student | AI/ML Enthusiast | FullStack Developer
 
 I am a 300-level Software Engineering student at Babcock University with a passion for building scalable systems and intelligent applications. My journey spans from low-level system administration (Linux) to building cloud-ready backend architectures and Machine Learning models.
 
