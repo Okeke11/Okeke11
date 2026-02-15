@@ -38,6 +38,10 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 
 ---
 
@@ -46,6 +50,7 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **E-Commerce Platform** | PHP, MySQL | A full-stack online store featuring product catalogs, cart functionality, and database-driven inventory management. |
+| **GART - E-Commerce Platform 2** | HTML/CSS, JS | A full-stack online store where customers can buy goods and even become sellers with good cart functionality and security. |
 | **Traffic Guard System** | Node.js, Express | A custom **API Rate Limiter** designed to control traffic flow and prevent DDOS-style overload on backend services. |
 | **TaskFlow System** | JavaScript, Node.js | A productivity and task management application focused on workflow efficiency and real-time updates. |
 | **Modern Login Suite** | HTML, CSS, JS | A high-end, responsive authentication UI featuring modern styling, validation, and smooth user transitions. |
