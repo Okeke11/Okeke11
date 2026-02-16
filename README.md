@@ -42,7 +42,8 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
-
+![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-EF2922?style=flat&logo=comptia&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4285F4?style=flat&logo=googlemarketingplatform&logoColor=white)
 ---
 
 ### 🚀 Projects Collection
