@@ -9,7 +9,7 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 ## ⚔️ About Me
 
 - 🎓 Currently studying **Software Engineering** (300 Level)
-- 💻 Passionate about building web apps, learning full-stack development and passinate about AI/ML
+- 💻 Passionate about building web apps, learning full-stack development and passionate about AI/ML
 - 📚 Always exploring new tools, technologies, and frameworks
 - 🌍 On a journey to become a world-class developer, one line of code at a time
 
