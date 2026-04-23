@@ -1,8 +1,6 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-### Software Engineering Student | AI/ML Enthusiast | FullStack Developer | Cloud Computing 
-
-I am a 300-level Software Engineering student at Babcock University with a passion for building scalable systems and intelligent applications. My journey spans from low-level system administration (Linux) to building cloud-ready backend architectures and Machine Learning models.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+Enthusiast;FullStack+Developer;Cloud+Computing)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
 
 ---
 
@@ -44,41 +42,47 @@ I am a 300-level Software Engineering student at Babcock University with a passi
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-EF2922?style=flat&logo=comptia&logoColor=white)
 ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4285F4?style=flat&logo=googlemarketingplatform&logoColor=white)
----
-
-### 🚀 Projects Collection
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **E-Commerce Platform** | PHP, MySQL | A full-stack online store featuring product catalogs, cart functionality, and database-driven inventory management. |
-| **GART - E-Commerce Platform 2** | HTML/CSS, JS | A full-stack online store where customers can buy goods and even become sellers with good cart functionality and security. |
-| **Traffic Guard System** | Node.js, Express | A custom **API Rate Limiter** designed to control traffic flow and prevent DDOS-style overload on backend services. |
-| **TaskFlow System** | JavaScript, Node.js | A productivity and task management application focused on workflow efficiency and real-time updates. |
-| **Modern Login Suite** | HTML, CSS, JS | A high-end, responsive authentication UI featuring modern styling, validation, and smooth user transitions. |
-| **Secure Auth Demo** | Node.js, Mongo, Bcrypt | A robust authentication system implementing **JWT-style security** and password hashing to secure user data. |
-| **Spam Email Classifier** | Python, Scikit-Learn | An ML model that uses **Natural Language Processing (NLP)** to detect and filter spam emails. |
-| **Supermarket Billing** | C++ | A terminal-based system demonstrating OOP principles for inventory management and automated billing. |
-| **Student Mgmt System** | Java, MongoDB | A comprehensive CRUD application for managing student records. |
 
 ---
 
 ## 📈 Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&show_icons=true&theme=radical&count_private=true" alt="Okeke11's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Okeke11's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okeke11&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Okeke11's Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Okeke11's Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Okeke11" alt="Okeke11's Gitanimals Farm" />
+  </a>
+</div>
+
+---
 
 ## 📫 Contact Me
 
 - 💌 chiagoziemike14@gmail.com
 - 💌 chiagozieokeke87@gmail.com
-- 🐦 ChiagozieMicha2(https://twitter.com/ChiagozieMicha2)
-- 💼 Chiagozie Okeke(https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
-- 📷 Instagram (https://www.instagram.com/itsagozie_/)
+- 🐦 [ChiagozieMicha2](https://twitter.com/ChiagozieMicha2)
+- 💼 [Chiagozie Okeke](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
+- 📷 [Instagram](https://www.instagram.com/itsagozie_/)
 - 📞 09127741457
 
 ---
 
 > “A king is not born, he is forged through trials… and projects.”
-
