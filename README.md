@@ -1,6 +1,6 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+Enthusiast;FullStack+Developer;Cloud+Computing)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+Enthusiast;FullStack+Developer;Cloud+Computing+Engineer)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
 
 ---
 
@@ -48,28 +48,20 @@
 ## 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Okeke11's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okeke11&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Okeke11's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Okeke11's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okeke11&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"&count_private=true alt="Okeke11's Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Okeke11's Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Okeke11" alt="Okeke11's Gitanimals Farm" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Okeke11's Activity Graph" />
 </div>
 
 ---
