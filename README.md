@@ -6,7 +6,7 @@
 
 ## ⚔️ About Me
 
-- 🎓 Currently studying **Software Engineering** (300 Level)
+- 🎓 Currently studying **Software Engineering** (JUNIOR)
 - 💻 Passionate about building web apps, learning full-stack development and passionate about AI/ML
 - 📚 Always exploring new tools, technologies, and frameworks
 - 🌍 On a journey to become a world-class developer, one line of code at a time
@@ -42,7 +42,10 @@
 ![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A+-EF2922?style=flat&logo=comptia&logoColor=white)
 ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4285F4?style=flat&logo=googlemarketingplatform&logoColor=white)
-
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security+-EF2922?style=flat&logo=comptia&logoColor=white)
+![AWS Cloud Computing](https://img.shields.io/badge/-AWS%20Cloud%20Computing-232F3E?style=flat&logo=amazonaws&logoColor=white&v=1)
+![Digital Literacy](https://img.shields.io/badge/-Digital%20Literacy-4B5563?style=flat&logo=microsoft&logoColor=white)
+![CCNA](https://img.shields.io/badge/-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ---
 
 ## 📈 Stats & Activity
