@@ -1,8 +1,13 @@
 # 👑 Hello, I'm Okeke Chiagoziem Michael!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+Enthusiast;FullStack+Developer;Cloud+Computing+Engineer)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+Enthusiast;FullStack+Developer;Cloud+Computing+Engineer;Data+Analyst)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="470" alt="Programmer Animation"/>
+</div>
+
+<br>
 
 ## ⚔️ About Me
 
