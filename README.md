@@ -90,5 +90,5 @@
 - 📞 09127741457
 
 ---
-
+Fun fact : I dont go above 7 commits a day (For solo projects)
 > “A king is not born, he is forged through trials… and projects.”
