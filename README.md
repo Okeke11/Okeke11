@@ -53,14 +53,14 @@
 ## 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Okeke11's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okeke11&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"&count_private=true alt="Okeke11's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Okeke11&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" alt="Okeke11's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okeke11&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&count_private=true" alt="Okeke11's Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" alt="Top Languages" />
 </div>
 
 <br>
@@ -79,15 +79,14 @@
 </div>
 
 ---
-
 ## 📫 Contact Me
 
-- 💌 chiagoziemike14@gmail.com
-- 💌 chiagozieokeke87@gmail.com
-- 🐦 [ChiagozieMicha2](https://twitter.com/ChiagozieMicha2)
-- 💼 [Chiagozie Okeke](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
-- 📷 [Instagram](https://www.instagram.com/itsagozie_/)
-- 📞 09127741457
+[![Gmail](https://img.shields.io/badge/Gmail-chiagoziemike14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiagoziemike14@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-chiagozieokeke87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiagozieokeke87@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/Twitter-@ChiagozieMicha2-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ChiagozieMicha2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiagozie_Okeke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiagoziem-okeke-452733363/)
+[![Instagram](https://img.shields.io/badge/Instagram-@itsagozie__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsagozie_/)
+[![Phone](https://img.shields.io/badge/Phone-09127741457-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:09127741457)
 
 ---
 Fun fact : I dont go above 7 commits a day (For solo projects)
